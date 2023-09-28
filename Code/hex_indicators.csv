@@ -1,0 +1,112 @@
+Figure_ID,Hex_ID,Source,Fingertips_ID,Sex,Age,Indicator_short_name,Indicator_label,England,Year
+Building blocks 1,1,OHID Fingertips,93097,Persons,Working age,Working_age_out_of_work,People of working age on out of work benefits.,,2021/22
+Building blocks 1,2,OHID Fingertips,93759,Persons,All ages,Fuel_poverty,in fuel poverty.,,2021
+Building blocks 1,3,ONS,,Persons,All ages,Housing_affordability_ratio,housing affordability ratio (ratio of lower 25% house prices to lower 25% gross earnings),,2022
+Building blocks 1,9,Department for Communities and Local Government (DCLG),,Persons,All ages,National_deprivation_quintile_1,of people living in the 20% most deprived areas in England,,2019
+Building blocks 1,10,Department for Communities and Local Government (DCLG),,Persons,0-15,Children_living_in_poverty,of children living in poverty,,2019
+Building blocks 1,11,Department for Communities and Local Government (DCLG),,Persons,60 and over,Older_people_living_in_poverty,of older people living in poverty,,2019
+Building blocks 2,1,,,,,Overall_crime_rate,"overall crime rate per 1,000",,June 2022 - May 2023
+Building blocks 2,2,OHID Fingertips,11202,,,Violent_crime_rate,"violent crime rate per 1,000",,June 2022 - May 2023
+Building blocks 2,3,,,,,ASB_rate,"antisocial behaviour incident rate per 1,000",,June 2022 - May 2023
+Building blocks 2,8,OHID Fingertips,90631,,Reception age,Good_level_development_reception,of reception age children achieving a good level of development,,2021/22
+Building blocks 2,9,OHID Fingertips,93378,,15-16 year olds,Average_attainment_8_score_16,Average Attainment 8 score at age 16,,2021/22
+Building blocks 2,10,OHID Fingertips,93381,,15-16 year olds,Average_attainment_8_score_children_in_care,Average Attainment 8 score for children in care,,2021
+Building blocks 2,11,Census 2021,,,,People_no_qualifications,People aged 16+ with no qualifications,,2021
+Building blocks 2,12,Census 2021,,,,Working_age_in_employment,People of working age in employment,,2021
+Building blocks 2,15,Census 2021,,,,Population_density,People per square km (population density),,2021
+Building blocks 2,16,Census 2021,,,,HH_overcrowding,of households which are overcrowded,,2021
+Building blocks 2,17,Census 2021,,,,HH_no_central_heating,of households lack central heating,,2021
+Building blocks 2,18,Census 2021,,,,HH_private_rented,of households are privately renting (main type),,2021
+Building blocks 2,23,Census 2021,,,,HH_at_least_one_resident,households with at least one resident,,2021
+Building blocks 2,24,Census 2021,,,,HH_living_alone_under_66,of households comprise a person aged under 66 living alone,,2021
+Building blocks 2,25,Census 2021,,,,HH_living_alone_over_66,of households comprise a person aged 66+ living alone,,2021
+Building blocks 2,26,Census 2021,,,,HH_lone_parent,of households comprise a lone parent,,2021
+Life expectancy disease burden,1,,,,,,,,
+Life expectancy disease burden,2,,,,,,,,
+Life expectancy disease burden,9,,,,,,,,
+Life expectancy disease burden,10,,,,,,,,
+Life expectancy disease burden,11,,,,,,,,
+Life expectancy disease burden,12,,,,,,,,
+Life expectancy disease burden,15,,,,,,,,
+Life expectancy disease burden,16,,,,,,,,
+Life expectancy disease burden,17,,,,,,,,
+Life expectancy disease burden,18,,,,,,,,
+Life expectancy disease burden,23,,,,,,,,
+Life expectancy disease burden,24,,,,,,,,
+Life expectancy disease burden,25,,,,,,,,
+Life expectancy disease burden,26,,,,,,,,
+Starting well,1,,,,,,,,
+Starting well,2,,,,,,,,
+Starting well,3,,,,,,,,
+Starting well,4,,,,,,,,
+Starting well,5,,,,,,,,
+Starting well,9,,,,,,,,
+Starting well,10,,,,,,,,
+Starting well,11,,,,,,,,
+Starting well,12,,,,,,,,
+Starting well,13,,,,,,,,
+Starting well,16,,,,,,,,
+Starting well,17,,,,,,,,
+Starting well,18,,,,,,,,
+Starting well,19,,,,,,,,
+Living well 1,1,,,,,,,,
+Living well 1,2,,,,,,,,
+Living well 1,3,,,,,,,,
+Living well 1,4,,,,,,,,
+Living well 1,5,,,,,,,,
+Living well 1,6,,,,,,,,
+Living well 1,9,,,,,,,,
+Living well 1,10,,,,,,,,
+Living well 1,11,,,,,,,,
+Living well 1,12,,,,,,,,
+Living well 1,13,,,,,,,,
+Living well 1,14,,,,,,,,
+Living well 1,16,,,,,,,,
+Living well 1,17,,,,,,,,
+Living well 1,18,,,,,,,,
+Living well 1,19,,,,,,,,
+Living well 1,20,,,,,,,,
+Living well 1,24,,,,,,,,
+Living well 1,25,,,,,,,,
+Living well 1,26,,,,,,,,
+Living well 1,27,,,,,,,,
+Living well 2,2,,,,,,,,
+Living well 2,3,,,,,,,,
+Living well 2,4,,,,,,,,
+Living well 2,5,,,,,,,,
+Living well 2,6,,,,,,,,
+Living well 2,7,,,,,,,,
+Living well 2,9,,,,,,,,
+Living well 2,10,,,,,,,,
+Living well 2,11,,,,,,,,
+Living well 2,12,,,,,,,,
+Living well 2,13,,,,,,,,
+Living well 2,14,,,,,,,,
+Living well 2,15,,,,,,,,
+Living well 2,16,,,,,,,,
+Living well 2,17,,,,,,,,
+Living well 2,18,,,,,,,,
+Living well 2,19,,,,,,,,
+Living well 2,20,,,,,,,,
+Living well 2,21,,,,,,,,
+Ageing well,1,,,,,,,,
+Ageing well,2,,,,,,,,
+Ageing well,3,,,,,,,,
+Ageing well,4,,,,,,,,
+Ageing well,9,,,,,,,,
+Ageing well,10,,,,,,,,
+Ageing well,11,,,,,,,,
+Ageing well,12,,,,,,,,
+Ageing well,16,,,,,,,,
+Ageing well,17,,,,,,,,
+Ageing well,18,,,,,,,,
+Ageing well,23,,,,,,,,
+Ageing well,24,,,,,,,,
+Ageing well,25,,,,,,,,
+Dying well,1,,,,,,,,
+Dying well,2,,,,,,,,
+Dying well,3,,,,,,,,
+Dying well,4,,,,,,,,
+Dying well,9,,,,,,,,
+Dying well,10,,,,,,,,
+Dying well,11,,,,,,,,
